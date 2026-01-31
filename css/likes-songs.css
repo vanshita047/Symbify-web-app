@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Ephesis&family=Montserrat:ital,wght@1,600&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(224, 251, 151);
+    font-family: 'montserrat', 'sans-serif';
+}
+input[type="checkbox"] {
+    display: none;
+}
+#heading{
+    font-size: 50px;
+}
+div {
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+}
+.bars {
+    font-size: 30px;
+
+}
+
+input{
+    display: none;
+    }
+    input:checked~label{
+        color: red;
+    }
+    label{
+    font-size: 5em;
+    }
+
+
+input{
+    display: none;
+     }
+    input:checked~label{
+    color: red;
+    }
+    label{
+    font-size: 5em;
+    }
+input{
+    display: none;
+    }
+    input:checked~label{
+    color: red;
+    }
+    label{
+     font-size: 5em;
+     }
+ input{
+    display: none;
+    }
+    input:checked~label{
+    color: red;
+    }
+    label{
+    font-size: 5em;
+    }
+input{
+     display: none;
+    }
+     input:checked~label{
+    color: red;
+    }
+    label{
+    font-size: 5em;
+     }
+input{
+    display: none;
+    }
+    input:checked~label{
+    color: red;
+    }
+    label{
+    font-size: 5em;
+    }
+input{
+     display: none;
+    }
+    input:checked~label{
+    color: red;
+    }
+    label{
+    font-size: 5em;
+    }
+input{
+    display: none;
+    }
+    input:checked~label{
+    color: red;
+    }
+    label{
+     font-size: 5em;
+     }
+ input{
+    display: none;
+    }
+    input:checked~label{
+    color: red;
+    }
+    label{
+    font-size: 5em;
+    }
+input{
+     display: none;
+    }
+    input:checked~label{
+    color: red;
+     }
+    label{
+    font-size: 5em;
+    }
+input{
+    display: none;
+}
+    input:checked~label{
+    color: red;
+    }
+    label{
+    font-size: 5em;
+    }
+ input{
+    display: none;
+    }
+    input:checked~label{
+    color: red;
+    }
+     label{
+    font-size: 5em;
+    }
